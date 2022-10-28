@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <p align="center">
    <img src="https://img.shields.io/badge/ReactJS-7cc5d9?style=for-the-badge&logo=react&logoColor=4FC08D" alt="React"/>&nbsp;
    <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white" alt="JS" />&nbsp;
-   <img src="https://img.shields.io/badge/NodeJS-43853D?style=for-the-badge&logo=nodejs&logoColor=white" alt="NodeJS"/>&nbsp;
+   <img src="https://img.shields.io/badge/NodeJS-43853D?style=for-the-badge&logo=Node.js&logoColor=white" alt="NodeJS"/>&nbsp;
    <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />&nbsp;
    <img src="https://img.shields.io/badge/Python-f6db73?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
    <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />&nbsp;
