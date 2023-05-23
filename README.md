@@ -28,8 +28,6 @@ You can click the Preview link to take a look at your changes.
    <img src="https://img.shields.io/badge/NestJS-ff0000?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest" />&nbsp;   
    <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;   
    <img src="https://img.shields.io/badge/CSS-1976d2?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;   
-   <img src="https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />&nbsp;
-   <img src="https://img.shields.io/badge/Bootstrap-59287a?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;
    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
    <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
