@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">I'm a full stack developer. I'm a rather curious person, so you'll find different knowledge here, as well as some that I've worked with or had experience with will be missing. In addition, I have an intrinsic desire to learn that makes me go beyond my goals.</h3>
 
 
-## ⚡ Technologies
+## 🚀 Technologies
 <details>
   <summary>:computer: These are some of the technologies and tools that I work with:</summary>
 <hr>
