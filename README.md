@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Victor!</h1>
 
-<h3 align="center">I'm a full stack developer and in this repository you'll find several projects of various types.
-</h3>
+<h2 align="center">I'm a full stack developer and in this repository you'll find several projects of various types.
+</h2>
 
 
 ## 🚀 Technologies
