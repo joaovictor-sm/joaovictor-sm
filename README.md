@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 Technologies
 <details>
-  <summary>:computer: These are some of the technologies and tools that I work with:</summary>
+  <summary>:computer: Technologies and tools i know:</summary>
 <hr>
   <p align="center">
    <img src="https://img.shields.io/badge/ReactJS-7cc5d9?style=for-the-badge&logo=react&logoColor=4FC08D" alt="React"/>&nbsp;
