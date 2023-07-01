@@ -1,8 +1,13 @@
-## Hi, I'm João Victor
+## 👋 Hi, I'm João Victor
 
-<h2 align="center">I'm a full stack developer and in this repository you'll find several projects of various types.
-</h2>
+<p align="left">I'm a full stack developer and I'm currently studying Next.js and Nest.js</p>
 
+##
+<p align="center">
+  <a href="https://github.com/joaovictor-sm">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaovictor-sm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor-sm&hide=jupyter%20notebook,c%2B%2B,cmake&layout=compact&langs_count=7&theme=radical"/>
+</p>
 
 ## 🚀 Technologies
 
@@ -19,11 +24,10 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
 </div>
 
-<p align="left">
+##
+<p align="center">
  <a href="https://www.linkedin.com/in/joao-victor-sm" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-JoaoVictor-0077b5?style=flat&logo=linkedin" alt="linkedin"/>
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
-
- <p align="center">
-  <img align="center" src="https://github.com/GersonDantas/img/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
