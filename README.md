@@ -2,13 +2,6 @@
 
 <p align="left">I'm a full stack developer and I'm currently studying Next.js and Nest.js</p>
 
-##
-<p align="center">
-  <a href="https://github.com/joaovictor-sm">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaovictor-sm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor-sm&hide=jupyter%20notebook,c%2B%2B,cmake&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
 ## 🚀 Technologies
 
 <div align="center">
@@ -24,10 +17,6 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
 </div>
 
-##
-<p align="center">
- <a href="https://www.linkedin.com/in/joao-victor-sm" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a>
-</p>
+## Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-sm)
