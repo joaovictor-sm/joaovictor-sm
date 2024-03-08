@@ -1,8 +1,22 @@
-## 👋 Hi, I'm João Victor
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">I'm a full stack developer and I'm currently studying Next.js and Nest.js</p>
+###
 
-## 🚀 Technologies
+<p align="left">Constantly learning to become a full stack developer!</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating ...<br>📚 I'm currently learning NextJS and NestJS...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 <div align="center">
   <img  alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"           />&nbsp;
@@ -17,6 +31,10 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
 </div>
 
-## Connect with Me
+###
+
+<h2 align="left">Connect with Me</h2>
+
+###
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-sm)
