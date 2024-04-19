@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Constantly learning to become a full stack developer!</p>
+<p align="left">Full Stack Developer with a focus on TypeScript, JavaScript, React, and Node.js, currently studying Next.js and Nest.js.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating ...<br>📚 I'm currently learning NextJS and NestJS...</p>
+<p align="left">Committed to delivering innovative and high-quality solutions, I'm constantly enhancing my skills. I seek opportunities to apply my knowledge to important and innovative projects.</p>
 
 ###
 
