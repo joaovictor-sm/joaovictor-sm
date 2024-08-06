@@ -24,7 +24,7 @@
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,prisma,postgres,figma" />
+    <img src="https://skillicons.dev/icons?i=prisma,postgres,docker,figma" />
   </a>
 </div>
 
