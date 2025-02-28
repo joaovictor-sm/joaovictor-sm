@@ -1,41 +1,42 @@
-<h1>Hey 👋 What's up?</h1>
+# Hey 👋 What's up?
 
 ###
 
-<p>I'm a software engineer specializing in TypeScript, JavaScript, React, and Node.js. Currently, I'm diving deeper into Next.js and Nest.js.</p>
+I'm a software engineer specializing in **TypeScript**, **JavaScript**, **React**, and **Node.js**. Currently, I'm diving deeper into **Next.js** and **Nest.js**.
 
 ###
 
-<h2>I code with</h2>
-
-###
-
-<div>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nextjs,nestjs,tailwind" />
-  </a>
-</div>
-
-###
-
-<h2>More tools I use</h2>
+## 🛠️ I code with
 
 ###
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prisma,postgres,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nextjs,nestjs,tailwind" alt="Tech Stack" />
   </a>
 </div>
 
 ###
 
-<h2>Connect with Me</h2>
+## 🧰 More tools I use
+
+###
+
+<div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prisma,postgres,git,docker,figma" alt="Tools" />
+  </a>
+</div>
+
+###
+
+## 🤝 Connect with Me
 
 ###
 
 <p>
   <a href="https://www.linkedin.com/in/joaovictor-sm" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+  
 </p>
